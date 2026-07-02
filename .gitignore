@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Streamlit local config
+.streamlit/
+
+# IDE configs
+.vscode/
+.idea/
+.gemini/
+.agents/
